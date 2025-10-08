@@ -2,7 +2,7 @@
 
 Summary: Qt6 - Qt Data Visualization component
 Name:    qt6-qtdatavis3d
-Version: 6.7.2
+Version: 6.8.3
 Release: 2%{?dist}
 
 License: GPL-3.0-only WITH Qt-GPL-exception-1.0
